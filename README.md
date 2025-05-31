@@ -1,11 +1,10 @@
 <img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
 <h1 align="center">Hi 👋, I'm Aryan</h1>
 
-🌱 **I’m currently exploring:** Next JS
+🌱 **I’m currently exploring:** GoLang
 
-🔭 **I’m currently working on:** Next JS,React JS.
-a
-💬 **Ask me about:** Python , Machine Learning , Cosmos , jokes and a good playlist🎧
+
+💬 **Ask me about:** Python , Machine Learning , Cosmos , Counter-Strike , Guitar , jokes and a good playlist🎧
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YosoyAryan&label=Profile%20views&color=0e75b6&style=flat" alt="YosoyAryan" /> </p>
 
 
