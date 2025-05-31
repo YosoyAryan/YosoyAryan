@@ -1,4 +1,4 @@
-<img align="right" style="margin-top: 40px; float: right; border-radius: 25px;" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd280YXJlYXp6d3htbW9oMnhvMGkzbzZqZ2RldXk1Yzd4b3U5cHh5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif" width="360"/><h1 align="center">Hi 👋, I'm Aryan</h1>
+<img align="right" style="margin-top: 40px; float: right; border-radius: 70px;" alt="GIF" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd280YXJlYXp6d3htbW9oMnhvMGkzbzZqZ2RldXk1Yzd4b3U5cHh5NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUPGcEliCc7bETyfO8/giphy.gif" width="360"/><h1 align="center">Hi 👋, I'm Aryan</h1>
 
 🌱 **I’m currently exploring:** GoLang
 
